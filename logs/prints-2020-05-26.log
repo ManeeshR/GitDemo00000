@@ -1,0 +1,8 @@
+19:24:52.129 [TestNG] INFO  Resources.base - Driver is initialized
+19:25:12.780 [TestNG] INFO  Resources.base - Navigated to home page
+19:25:29.716 [TestNG] INFO  Resources.base - Restected usr
+19:25:33.870 [TestNG] INFO  Resources.base - Navigation bar is running
+19:25:48.897 [TestNG] INFO  Resources.base - NonRestected usr
+19:37:02.153 [TestNG] INFO  Resources.base - Driver is initialized
+19:37:02.153 [TestNG] INFO  Resources.base - Driver is initialized
+19:37:12.711 [TestNG] INFO  Resources.base - Navigated to home page

@@ -1,0 +1,8 @@
+13:23:22.470 [TestNG] INFO  Resources.base - Driver is initialized
+13:23:22.877 [TestNG] INFO  Resources.base - Driver is initialized
+13:23:36.321 [TestNG] INFO  Resources.base - Navigated to home page
+13:23:36.501 [TestNG] INFO  Resources.base - Successfully validated text message
+13:23:43.025 [TestNG] INFO  Resources.base - Navigation bar is running
+13:23:56.421 [TestNG] INFO  Resources.base - Restected usr
+13:24:11.510 [TestNG] INFO  Resources.base - NonRestected usr
+16:46:36.158 [main] INFO  Resources.base - Restected usr
